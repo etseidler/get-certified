@@ -2,12 +2,12 @@
 A list of courses and resources for getting tech certifications. I used these resources and passed the certification tests on the first attempt. Circa 2023-2024.
 
 
-## Terraform
+## Terraform: [Associate](https://developer.hashicorp.com/certifications/infrastructure-automation)
 * [Course on KodeKloud](https://learn.kodekloud.com/user/courses/terraform-basics-training-course) or [Udemy version of the same thing](https://wwt.udemy.com/course/terraform-for-the-absolute-beginners/)
 * Practice exams (only) on ExamPro via [this course](https://www.exampro.co/terraform)
 
 
-## Prometheus
+## Prometheus: [PCA](https://training.linuxfoundation.org/certification/prometheus-certified-associate/)
 * [Course on KodeKloud](https://learn.kodekloud.com/courses/prometheus-certified-associate-pca)
 * [Practice exams on Udemy](https://www.udemy.com/course/prometheus-certified-associate-practice-exam/)
 
