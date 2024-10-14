@@ -1,5 +1,5 @@
 # get-certified
-list of courses and resources for getting tech certifications. circa 2023-2024
+A list of courses and resources for getting tech certifications. I used these resources and passes the certification tests on the first attempt. Circa 2023-2024.
 
 
 ## Terraform
