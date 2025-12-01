@@ -11,7 +11,9 @@ A list of courses and resources for getting tech certifications. I used these re
 * [Course on KodeKloud](https://learn.kodekloud.com/courses/prometheus-certified-associate-pca)
 * [Practice exams on Udemy](https://www.udemy.com/course/prometheus-certified-associate-practice-exam/)
 
-TBH, taking the practice exams course listed just above will leave you in an over-prepared state, as IMO they were harder than the actual exam.
+NOTES:
+  - taking the practice exams course listed just above will leave you in an over-prepared state, as IMO they were harder than the actual exam.
+  - I can't say that I recommend getting this cert. It's fine but the others are more useful IMO.
 
 
 ## Vault: [Associate](https://developer.hashicorp.com/certifications/security-automation)
