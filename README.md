@@ -21,3 +21,11 @@ TBH, taking the practice exams course listed just above will leave you in an ove
 NOTES:
   - The guy who teaches the Vault course on KodeKloud is the same instructor as [this course on Udemy](https://www.udemy.com/course/hashicorp-vault). Probably the same content.
   - This course is thorough and detailed, sometimes to the point of tedium. Still, I found it to be a good intro course, even if you know little to nothing about Vault.
+
+## AWS: [SAA](https://aws.amazon.com/certification/certified-solutions-architect-associate)
+* [Course on KodeKloud](https://kodekloud.com/courses/aws-saa)
+* Practice exams (only) on ExamPro via [this course](https://www.exampro.co/saa-c03)
+
+NOTES:
+  - Warning: The KodeKloud course for this cert is *long* and *thorough*. (Maybe too long?) There are a lot of example questions in the course video content that will help with practicing the art of identifying key phrases in the exam questions.
+  - There are practice questions in the KodeKloud course, but I found the practice exams in ExamPro to be more helpful.
