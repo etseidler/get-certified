@@ -31,6 +31,7 @@ NOTES:
 NOTES:
   - Warning: The KodeKloud course for this cert is *long* and *thorough*. (Maybe too long?) There are a lot of example questions in the course video content that will help with practicing the art of identifying key phrases in the exam questions.
   - There are practice questions in the KodeKloud course, but I found the practice exams in ExamPro to be more helpful.
+  - As of early December 2025, this was the most difficult exam in this list to pass. The sheer breadth of material is a challenge and I barely finished the exam in the time allotted. (I flagged too many questions as "review later".)
 
 ## Platform Engineering: [CNPA](https://training.linuxfoundation.org/certification/certified-cloud-native-platform-engineering-associate-cnpa/)
 * [Course on KodeKloud](https://kodekloud.com/courses/certified-cloud-native-platform-engineering-associate-cnpa)
