@@ -34,3 +34,7 @@ NOTES:
 
 ## Platform Engineering: [CNPA](https://training.linuxfoundation.org/certification/certified-cloud-native-platform-engineering-associate-cnpa/)
 * [Course on KodeKloud](https://kodekloud.com/courses/certified-cloud-native-platform-engineering-associate-cnpa)
+
+NOTES:
+  - I have many years of experience in software development, including CI/CD, as well as recent experience/familiarity with DevOps, SRE, and GitOps concepts and patterns. In light of that, this was an easy exam to pass.
+  - There are no detailed technical questions. This exam tests your familiarity with tools and concepts listed in the domains in the previous bullet.
